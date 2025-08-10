@@ -1,4 +1,4 @@
-herename: Setup ngrok and Remote Desktop
+name: Setup ngrok and Remote Desktop
 
 on:
   workflow_dispatch:  # Manual trigger only
